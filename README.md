@@ -2,3 +2,4 @@
 # building responsive web
 - HTML
 - CSS
+- JS
